@@ -4,7 +4,7 @@ serve((_req) => {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: "https://ib.anonymismus.tk/me/teams/con/", // Replace this with your actual link
+      Location: "https://ssapar.vercel.app/", // Replace this with your actual link
     },
   });
 });
